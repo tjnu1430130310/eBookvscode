@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Anaconda2\\python.exe",
+    "python.linting.pylintPath": "pylint",
+    "python.linting.pylintArgs": [
+        "--load-plugins", "pylint_django"
+    ],
+    "python.formatting.autopep8Path": "autopep8",
+
+    "editor.wordWrap": "on",
+}
